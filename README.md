@@ -26,6 +26,8 @@ In this project, I used the following technologies:
 - **Hibernate:** An object-relational mapping (ORM) framework that facilitates the mapping of Java objects to database
   tables.
 
+- **PostgreSQL:** The final database file was generated in PostgreSQL, a Relational Database Management System.
+
 ## Relational Model
 <br>
 <br>
