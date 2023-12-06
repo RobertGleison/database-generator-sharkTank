@@ -1,7 +1,7 @@
 # Database Generator
 
 The **Database Generator** is an automated solution designed to create and seed a database for my Database
-project at the University of Porto. <br>
+project at the University of Porto. The commits are in https://github.com/RobertGleison/databases-training-projects/tree/main/shark-tank.<br>
 Please note that this is not a universal model, it only works with a specific CSV file. You can find the
 dataset [here](https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset).
 
